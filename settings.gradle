@@ -1,6 +1,4 @@
 rootProject.name = 'libgdx-video-prototype'
 include 'core'
-findProject(':core')?.name = 'libgdx-video-core'
 include 'desktop'
-findProject(':desktop')?.name = 'libgdx-video-desktop'
 
