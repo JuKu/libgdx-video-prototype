@@ -25,4 +25,7 @@ dependencies {
 
     //Apache commons-lang library for custom hashcode
     compile "org.apache.commons:commons-lang3:$apacheCommonsLangVersion"
+
+    //libGDX video extension
+    compile "com.badlogicgames.gdxvideo:gdx-video:0.0.1"
 }
